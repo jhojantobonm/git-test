@@ -7,3 +7,5 @@ Step five
 Bug fix 1
 Bug fix 2
 Bug fix 3
+Bug 2 Fix 1
+Bug 2 Fix 2
