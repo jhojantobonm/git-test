@@ -7,5 +7,6 @@ Step five
 Step six
 Step seven
 Step eight
+Step nine
 Bug fix 1
 Bug fix 2
